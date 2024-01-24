@@ -32,3 +32,14 @@ img{
     
     float:left;
 }
+@media (min-width: 319px) and (max-width: 480px) {
+      body {
+        background-color: lightsalmon;
+      }
+    }
+
+    @media (min-width: 481px) and (max-width: 1200px) {
+      body {
+        background-color: powderblue;
+      }
+    }
